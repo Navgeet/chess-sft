@@ -1,0 +1,16 @@
+# Core Training Dependencies
+torch>=2.4.0
+transformers>=4.44.0
+datasets>=2.18.0
+trl>=0.24.0
+
+# LoRA and Quantization
+peft>=0.11.0
+bitsandbytes>=0.44.0
+
+# Optional: Unsloth for optimized training
+# Uncomment to use Unsloth acceleration
+# unsloth[colab-new] @ git+https://github.com/unslothai/unsloth.git
+
+# Optional: Logging and experiment tracking
+# wandb>=0.18.0
