@@ -12,6 +12,11 @@ This is a **research project** aimed at training language models to:
 
 The approach uses supervised fine-tuning (SFT) on chess move legality data to teach models fundamental chess concepts before scaling to more complex tasks like move generation.
 
+## Pre-trained Models
+
+A trained model is available on Hugging Face Hub:
+- **[navgeet/chess-sft-merged](https://huggingface.co/navgeet/chess-sft-merged)** - Merged chess move legality model ready for inference
+
 ## Requirements
 
 ### Python Dependencies
