@@ -203,5 +203,6 @@ For faster benchmarking:
 
 ## License
 
+Copyright (c) 2026 Navgeet Agarwal
 MIT License
 
